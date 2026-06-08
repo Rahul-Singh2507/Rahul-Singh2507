@@ -1,0 +1,202 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="1080" viewBox="0 0 900 1080">
+
+  <!-- Background -->
+  <rect width="900" height="1080" fill="#0d0d0d"/>
+
+  <!-- NAME -->
+  <text x="320" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#ffffff" letter-spacing="-1" text-anchor="middle">Rahul Raj</text>
+  <text x="320" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" fill="#ffffff" letter-spacing="-1" text-anchor="middle">Singh</text>
+
+  <!-- Role -->
+  <text x="320" y="162" font-family="'Courier New', Courier, monospace" font-size="11" fill="#888888" letter-spacing="2" text-anchor="middle">MERN • GENERATIVE AI • DEVOPS • INDIA</text>
+
+  <!-- Open to work pill -->
+  <rect x="238" y="175" width="164" height="28" rx="14" fill="none" stroke="#444444" stroke-width="1"/>
+  <circle cx="256" cy="189" r="5" fill="#22c55e"/>
+  <text x="268" y="194" font-family="'Courier New', Courier, monospace" font-size="12" fill="#cccccc">Open To Work</text>
+
+  <!-- DIVIDER -->
+  <line x1="60" y1="228" x2="840" y2="228" stroke="#222222" stroke-width="1"/>
+
+  <!-- CURRENTLY BUILDING label -->
+  <text x="60" y="258" font-family="'Courier New', Courier, monospace" font-size="10" fill="#666666" letter-spacing="3">CURRENTLY BUILDING</text>
+
+  <!-- Row lines and content -->
+  <line x1="60" y1="270" x2="840" y2="270" stroke="#222222" stroke-width="1"/>
+  <text x="72" y="294" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555555">01</text>
+  <text x="110" y="294" font-family="'Courier New', Courier, monospace" font-size="13" fill="#dddddd">Multi-agent AI workflows</text>
+  <text x="840" y="294" font-family="'Courier New', Courier, monospace" font-size="10" fill="#555555" text-anchor="end">LANGGRAPH</text>
+
+  <line x1="60" y1="308" x2="840" y2="308" stroke="#222222" stroke-width="1"/>
+  <text x="72" y="332" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555555">02</text>
+  <text x="110" y="332" font-family="'Courier New', Courier, monospace" font-size="13" fill="#dddddd">Real-time collaborative apps</text>
+  <text x="840" y="332" font-family="'Courier New', Courier, monospace" font-size="10" fill="#555555" text-anchor="end">SOCKET.IO + REDIS</text>
+
+  <line x1="60" y1="346" x2="840" y2="346" stroke="#222222" stroke-width="1"/>
+  <text x="72" y="370" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555555">03</text>
+  <text x="110" y="370" font-family="'Courier New', Courier, monospace" font-size="13" fill="#dddddd">K8s microservices on AWS EKS</text>
+  <text x="840" y="370" font-family="'Courier New', Courier, monospace" font-size="10" fill="#555555" text-anchor="end">DEVOPS</text>
+
+  <line x1="60" y1="384" x2="840" y2="384" stroke="#222222" stroke-width="1"/>
+  <text x="72" y="408" font-family="'Courier New', Courier, monospace" font-size="12" fill="#555555">04</text>
+  <text x="110" y="408" font-family="'Courier New', Courier, monospace" font-size="13" fill="#dddddd">Semantic search with RAG pipelines</text>
+  <text x="840" y="408" font-family="'Courier New', Courier, monospace" font-size="10" fill="#555555" text-anchor="end">PINECONE + OPENAI</text>
+  <line x1="60" y1="422" x2="840" y2="422" stroke="#222222" stroke-width="1"/>
+
+  <!-- DIVIDER -->
+  <line x1="60" y1="448" x2="840" y2="448" stroke="#222222" stroke-width="1"/>
+
+  <!-- STACK label -->
+  <text x="60" y="476" font-family="'Courier New', Courier, monospace" font-size="10" fill="#666666" letter-spacing="3">STACK</text>
+
+  <!-- ── FRONTEND ── -->
+  <text x="60" y="500" font-family="'Courier New', Courier, monospace" font-size="9" fill="#555555" letter-spacing="2">FRONTEND</text>
+  <line x1="60" y1="505" x2="840" y2="505" stroke="#222222" stroke-width="1"/>
+
+  <!-- React chip -->
+  <rect x="60" y="513" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="70" y="521" width="18" height="18"/>
+  <text x="94" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">React.js</text>
+
+  <!-- Tailwind chip -->
+  <rect x="172" y="513" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" x="182" y="521" width="18" height="18"/>
+  <text x="206" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Tailwind</text>
+
+  <!-- Redux chip -->
+  <rect x="284" y="513" width="100" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" x="294" y="521" width="18" height="18"/>
+  <text x="318" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Redux</text>
+
+  <!-- HTML5 chip -->
+  <rect x="392" y="513" width="100" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" x="402" y="521" width="18" height="18"/>
+  <text x="426" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">HTML5</text>
+
+  <!-- CSS3 chip -->
+  <rect x="500" y="513" width="96" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" x="510" y="521" width="18" height="18"/>
+  <text x="534" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">CSS3</text>
+
+  <!-- SCSS chip -->
+  <rect x="604" y="513" width="96" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" x="614" y="521" width="18" height="18"/>
+  <text x="638" y="534" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">SCSS</text>
+
+  <!-- ── BACKEND ── -->
+  <text x="60" y="572" font-family="'Courier New', Courier, monospace" font-size="9" fill="#555555" letter-spacing="2">BACKEND</text>
+  <line x1="60" y1="577" x2="840" y2="577" stroke="#222222" stroke-width="1"/>
+
+  <rect x="60" y="585" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="70" y="593" width="18" height="18"/>
+  <text x="94" y="606" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Node.js</text>
+
+  <rect x="172" y="585" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" x="182" y="593" width="18" height="18"/>
+  <text x="206" y="606" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Express</text>
+
+  <rect x="284" y="585" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="294" y="593" width="18" height="18"/>
+  <text x="318" y="606" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">MongoDB</text>
+
+  <rect x="396" y="585" width="96" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" x="406" y="593" width="18" height="18"/>
+  <text x="430" y="606" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Redis</text>
+
+  <rect x="500" y="585" width="108" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" x="510" y="593" width="18" height="18"/>
+  <text x="534" y="606" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Socket.io</text>
+
+  <!-- ── GENERATIVE AI ── -->
+  <text x="60" y="644" font-family="'Courier New', Courier, monospace" font-size="9" fill="#555555" letter-spacing="2">GENERATIVE AI</text>
+  <line x1="60" y1="649" x2="840" y2="649" stroke="#222222" stroke-width="1"/>
+
+  <rect x="60" y="657" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" x="70" y="665" width="18" height="18"/>
+  <text x="94" y="678" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">OpenAI</text>
+
+  <rect x="172" y="657" width="112" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" x="182" y="665" width="18" height="18"/>
+  <text x="206" y="678" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">LangChain</text>
+
+  <rect x="292" y="657" width="112" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="302" y="665" width="18" height="18" rx="4" fill="#FF6B6B"/>
+  <text x="310" y="677" font-family="'Courier New', Courier, monospace" font-size="7" fill="white" text-anchor="middle" font-weight="bold">LG</text>
+  <text x="326" y="678" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">LangGraph</text>
+
+  <rect x="412" y="657" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <rect x="422" y="665" width="18" height="18" rx="4" fill="#1C1C1C" stroke="#444" stroke-width="1"/>
+  <text x="431" y="677" font-family="'Courier New', Courier, monospace" font-size="7" fill="#aaffaa" text-anchor="middle" font-weight="bold">PC</text>
+  <text x="446" y="678" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Pinecone</text>
+
+  <!-- ── DEVOPS & CLOUD ── -->
+  <text x="60" y="716" font-family="'Courier New', Courier, monospace" font-size="9" fill="#555555" letter-spacing="2">DEVOPS &amp; CLOUD</text>
+  <line x1="60" y1="721" x2="840" y2="721" stroke="#222222" stroke-width="1"/>
+
+  <rect x="60" y="729" width="100" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="70" y="737" width="18" height="18"/>
+  <text x="94" y="750" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Docker</text>
+
+  <rect x="168" y="729" width="116" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" x="178" y="737" width="18" height="18"/>
+  <text x="202" y="750" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Kubernetes</text>
+
+  <rect x="292" y="729" width="88" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" x="302" y="737" width="18" height="18"/>
+  <text x="326" y="750" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">AWS</text>
+
+  <rect x="388" y="729" width="96" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" x="398" y="737" width="18" height="18"/>
+  <text x="422" y="750" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Nginx</text>
+
+  <rect x="492" y="729" width="140" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" x="502" y="737" width="18" height="18"/>
+  <text x="526" y="750" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">GitHub Actions</text>
+
+  <!-- ── TOOLS ── -->
+  <text x="60" y="788" font-family="'Courier New', Courier, monospace" font-size="9" fill="#555555" letter-spacing="2">TOOLS</text>
+  <line x1="60" y1="793" x2="840" y2="793" stroke="#222222" stroke-width="1"/>
+
+  <rect x="60" y="801" width="88" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="70" y="809" width="18" height="18"/>
+  <text x="94" y="822" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Git</text>
+
+  <rect x="156" y="801" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" x="166" y="809" width="18" height="18"/>
+  <text x="190" y="822" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">VS Code</text>
+
+  <rect x="268" y="801" width="104" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" x="278" y="809" width="18" height="18"/>
+  <text x="302" y="822" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Postman</text>
+
+  <rect x="380" y="801" width="96" height="34" rx="7" fill="#161616" stroke="#2a2a2a" stroke-width="1"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" x="390" y="809" width="18" height="18"/>
+  <text x="414" y="822" font-family="'Courier New', Courier, monospace" font-size="11" fill="#cccccc">Axios</text>
+
+  <!-- DIVIDER -->
+  <line x1="60" y1="858" x2="840" y2="858" stroke="#222222" stroke-width="1"/>
+
+  <!-- CONNECT -->
+  <text x="60" y="884" font-family="'Courier New', Courier, monospace" font-size="9" fill="#666666" letter-spacing="3">CONNECT</text>
+
+  <!-- LinkedIn -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" x="60" y="898" width="18" height="18"/>
+  <text x="84" y="912" font-family="'Courier New', Courier, monospace" font-size="12" fill="#888888">LinkedIn</text>
+
+  <!-- Email icon placeholder -->
+  <rect x="168" y="898" width="18" height="18" rx="3" fill="#EA4335"/>
+  <text x="177" y="911" font-family="'Courier New', Courier, monospace" font-size="8" fill="white" text-anchor="middle">@</text>
+  <text x="192" y="912" font-family="'Courier New', Courier, monospace" font-size="12" fill="#888888">Email</text>
+
+  <!-- Portfolio icon -->
+  <rect x="264" y="898" width="18" height="18" rx="9" fill="none" stroke="#666" stroke-width="1.5"/>
+  <text x="273" y="911" font-family="'Courier New', Courier, monospace" font-size="8" fill="#888888" text-anchor="middle">◎</text>
+  <text x="288" y="912" font-family="'Courier New', Courier, monospace" font-size="12" fill="#888888">Portfolio</text>
+
+  <!-- DIVIDER -->
+  <line x1="60" y1="940" x2="840" y2="940" stroke="#222222" stroke-width="1"/>
+
+  <!-- QUOTE -->
+  <text x="450" y="978" font-family="Georgia, serif" font-size="15" font-style="italic" fill="#555555" text-anchor="middle">Building products. Solving problems. Shipping ideas. ✨</text>
+
+</svg>
