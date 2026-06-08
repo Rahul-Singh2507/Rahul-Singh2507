@@ -133,40 +133,6 @@ const rahul = {
 
 </div>
 
----
-
-<!-- Streak Stats -->
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrajsingh&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=0d1117" alt="GitHub Streak Stats" width="70%"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulrajsingh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=7c3aed" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
-<!-- Trophies -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulrajsingh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
 
 <!-- What I'm building -->
 ## 🌱 Currently Building
